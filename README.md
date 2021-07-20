@@ -4,7 +4,7 @@ This repository contains a series of notebooks used to analyze anonymized smartp
 
 Concomitant to the construction of these notebooks, we learned that the World Bank's Global Facility for Disaster Reduction and Recovery (GFDRR) was working on similar analysis for the more narrow use case of understanding disaster resilience. The GFDRR's effort was better funded and well-advanced on the creation of a general-purpose toolkit for analyzing mobility data using Dask (https://github.com/GFDRR/mobility_analysis_archive).
 
-Recognizing the GFDRR's greater resources and continuity we made a strategic decision to narrow our coding ambitions and not duplicate their effort. Therefore, we have prepare a series of notebooks documenting workflows to prepare several general purpose mobility statistics using the Spark environment (more on that below). These may be useful to analysts who wish to work in Spark, need greater scale than Dask can provide, or are tackling use cases not covered by the Mobility Analysis Kit.
+Recognizing the GFDRR's greater resources and continuity we made a strategic decision to narrow our coding ambitions and not duplicate their effort. Therefore, we have prepare a series of notebooks documenting workflows to prepare several general purpose mobility statistics using the Spark environment (more on that below). These may be useful to analysts who wish to work in Spark, need greater scale than Dask can provide, or are tackling use cases not covered by the mobility4resilience kit.
 
 ### Notebook purpose
 
