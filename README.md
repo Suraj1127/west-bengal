@@ -8,7 +8,7 @@ Recognizing the GFDRR's greater resources and continuity we made a strategic dec
 
 ### Notebook purpose
 
-These notebooks focused on use cases well matched to the needs and available data of the developing world. Most developed world analyses of mobility data have focused on daily movement rates, visitation rates to individual stores, and other analyses that assume huge, frequent mobility data sample sizes and rich secondary geospatial datasets of points of interest. Neither of these assumptions hold in South Asia.
+These notebooks focused on use cases well matched to the needs and available data of the developing world. Most developed world analyses of mobility data have focused on daily movement rates, visitation rates to individual stores, and other analyses that assume huge, frequent mobility data sample sizes and rich secondary geospatial datasets of points of interest. Neither of these assumptions reliably hold in South Asia.
 
 However, South Asia witnesses far greater rates of seasonal internal migration, which can be tracked with sparser, less detailed data than is typical in the developed world. Short-term internal migration is a noted lacunae in available migration data with important consequences for development outcomes for vulnerable persons. We therefore elected to focus on creating measuers of such.
 
