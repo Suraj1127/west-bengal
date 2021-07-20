@@ -51,4 +51,4 @@ We use PySpark and Pandas within the server to aggregate results according to th
 
 The non-Spark notebooks break down these aggregates into chunks useful for validating the dataest and exploring movement rates around notable events or agricultural calendar dates in the last two years. The notebooks include code for packaging said chunks into useful charts.
 
-These are written in vanilla Python and require no addditional specialized skills.
+These are written in vanilla Python and require no additional specialized skills.
