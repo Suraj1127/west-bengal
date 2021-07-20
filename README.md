@@ -22,11 +22,11 @@ Several assumptions underpin these notebooks:
 
 These assumptions are non-trivial and if they are not met, we recommend you stop here and source the appropriate technical and/or human resources before moving forward.
 
-If these assumptions are met but you're a little confused about the specifics, reading the accompanying *Explaining_distributed_environments.md* doc to familiarize yourself with the high level ideas. Note that said doc is far from exhaustive and is meant only as an introduction to economists, geographers, and other potential mobility analysis profiles typically less familiar with such environments.
+If these assumptions are met but you're a little confused about the specifics, reading the accompanying *Explaining_distributed_environments.md* doc to familiarize yourself with the high level ideas. Note that said doc is a superficial take on a complicated computer science problem and is meant only as an introduction to economists, geographers, and other potential mobility analysis profiles typically less familiar with such environments.
 
 ### Our process
 
-Processing data, even non-spatial data, on servers is expensive and time consuming. Therefore these notebooks are structured to follow a two-stage process which minimizes server computation time:
+Processing data, even non-spatial data, on servers is expensive and time consuming. Therefore these notebooks are structured to follow a three-stage process which minimizes server computation time:
 
 * First, assign administrative ID codes to each individual row of data based on its location
 * Second, run analysis aggregating results by location, time period, or movement pattern from every row ("big data" analysis) in Spark, saving out the results as local CSVs
